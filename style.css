@@ -433,16 +433,16 @@ body {
     gap: 2rem;
   }
   .search-box {
-    width: 30rem;
+    width: 34rem;
   }
   .progress-content {
     grid-template-columns: 1fr;
   }
 }
 @media (max-width: 28.75em) {
-  .side-menu {
+  /* .side-menu {
     gap: 1rem;
-  }
+  } */
   .side-menu .fa-solid {
     display: none;
   }
